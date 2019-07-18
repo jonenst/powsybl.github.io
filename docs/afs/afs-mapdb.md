@@ -1,6 +1,7 @@
 ---
 title: AFS MapDB implementation
 layout: default
+parent: AFS
 ---
 
 Powsybl provides a simple implementation of the AFS storage API, based on [MapDB](http://www.mapdb.org/). Use this implementation
