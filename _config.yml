@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-title: Power System Blocks
+title: PowSyBl
 show_downloads: false
 markdown: kramdown
 search_enabled: true
