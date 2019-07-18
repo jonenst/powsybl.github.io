@@ -1,6 +1,7 @@
 ---
 title: default-computation-manager
 layout: default
+parent: Modules configuration
 ---
 
 The `default-computation-manager` module is an optional module loaded when an `iTools` command starts, to determine which

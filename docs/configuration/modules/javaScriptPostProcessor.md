@@ -1,6 +1,7 @@
 ---
 title: javaScriptPostProcessor
 layout: default
+parent: Modules configuration
 ---
 
 The `javaScriptPostProcessor` module is used by the `com.powsybl.iidm.import_.JavaScriptPostProcessor` class, which is

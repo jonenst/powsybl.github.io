@@ -1,6 +1,7 @@
 ---
 title: logback-itools.xml
 layout: default
+parent: Configuration
 ---
 
 The `iTools` script uses [logback](https://logback.qos.ch/) for logging. There are two different ways to configure the

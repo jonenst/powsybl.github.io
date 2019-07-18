@@ -1,6 +1,7 @@
 ---
 title: remote-service
 layout: default
+parent: Modules configuration
 ---
 
 The `remote-service` module is used by [AFS](../../afs/index.md) to define a remote AFS server.

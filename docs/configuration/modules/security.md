@@ -1,6 +1,7 @@
 ---
 title: security
 layout: default
+parent: Modules configuration
 ---
 
 The `security` module is used by the AFS web-server to define the authentication token validity.

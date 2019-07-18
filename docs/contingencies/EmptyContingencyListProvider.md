@@ -1,6 +1,7 @@
 ---
 title: EmptyContingencyListProvider
 layout: default
+parent: Contingencies
 ---
 
 The `com.powsybl.contingency.EmptyContingencyListProvider` is a special implementation of the

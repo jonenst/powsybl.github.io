@@ -1,6 +1,7 @@
 ---
 title: table-formatter
 layout: default
+parent: Modules configuration
 ---
 
 The `table-formatter` module is used to configure the format to display in the console results as tables.

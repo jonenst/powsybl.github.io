@@ -1,6 +1,7 @@
 ---
 title: loadflow-results-completion-parameters
 layout: default
+parent: Modules configuration
 ---
 
 The `loadflow-results-completion-parameters` module is used by the [loadflow-validation](../../tools/loadflow-validation.md)

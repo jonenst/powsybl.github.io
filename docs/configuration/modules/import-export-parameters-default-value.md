@@ -1,6 +1,7 @@
 ---
 title: import-export-parameters-default-value
 layout: default
+parent: Modules configuration
 ---
 
 The `import-export-parameters-default-value` module is an optional module used by the `com.powsybl.iidm.import_.Importers`

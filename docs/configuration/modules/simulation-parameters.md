@@ -1,6 +1,7 @@
 ---
 title: simulation-parameters
 layout: default
+parent: Modules configuration
 ---
 
 The `simulation-parameters` module is used in the [run-impact-analysis](../../tools/run-impact-analysis.md) command

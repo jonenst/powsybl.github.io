@@ -1,6 +1,7 @@
 ---
 title: load-flow-based-phase-shifter-optimizer
 layout: default
+parent: Modules configuration
 ---
 
 The `load-flow-based-phase-shifter-optimizer` module is used by the `com.powsybl.action.util.LoadFlowBasedPhaseShifterOptimizer`

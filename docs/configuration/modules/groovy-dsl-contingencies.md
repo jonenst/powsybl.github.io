@@ -1,6 +1,7 @@
 ---
 title: groovy-dsl-contingencies
 layout: default
+parent: Modules configuration
 todo:
     - add link to missing page
 ---

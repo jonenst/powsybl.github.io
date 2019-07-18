@@ -1,6 +1,8 @@
 ---
 title: Contingencies
 layout: default
+has_children: true
+permalink: /docs/contingencies/
 ---
 
 The `com.powsybl.contingency.Contingency` class is used to model a set of equipments that are disconnected, because of a

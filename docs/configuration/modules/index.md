@@ -1,6 +1,8 @@
 ---
 title: Modules configuration
 layout: default
+has_children: true
+permalink: /docs/configuration/modules
 ---
 
 The configuration mechanism supports YAML and XML file formats. The framework looks inside all the folders specified

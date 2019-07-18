@@ -1,6 +1,7 @@
 ---
 title: security-analysis-config
 layout: default
+parent: Modules configuration
 ---
 
 The `security-analysis` module is used to configure the execution of the

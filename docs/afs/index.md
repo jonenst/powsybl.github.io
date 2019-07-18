@@ -2,7 +2,7 @@
 title: AFS
 layout: default
 has_children: true
-permalink: /docs/afs
+permalink: /docs/afs/
 ---
 
 Powsybl provides several implementation of the storage API:

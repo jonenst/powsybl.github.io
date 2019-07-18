@@ -1,6 +1,7 @@
 ---
 title: local-app-file-system
 layout: default
+parent: Modules configuration
 todo:
     - add links to missing pages
 ---

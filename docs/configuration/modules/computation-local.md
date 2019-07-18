@@ -1,6 +1,7 @@
 ---
 title: computation-local
 layout: default
+parent: Modules configuration
 ---
 
 The `computation-local` module is used by the `com.powsybl.computation.local.LocalComputationManager` to run computations

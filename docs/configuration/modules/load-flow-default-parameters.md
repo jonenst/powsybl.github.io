@@ -1,6 +1,7 @@
 ---
 title: load-flow-default-parameters
 layout: default
+parent: Modules configuration
 --- 
 
 The `load-flow-default-parameters` module is used everytime a load-flow is run. It defines the default values for the

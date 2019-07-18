@@ -1,6 +1,7 @@
 ---
 title: javafx-packager
 layout: default
+parent: installation
 ---
 
 The [JavaFX Maven Plugin](https://github.com/javafx-maven-plugin/javafx-maven-plugin) provides a way to assemble

@@ -1,6 +1,7 @@
 ---
 title: external-security-analysis-config
 layout: default
+parent: Modules configuration
 ---
 
 The `external-security-analysis-config` module is used in the `com.powsybl.security.distributed.ExternalSecurityAnalysis`

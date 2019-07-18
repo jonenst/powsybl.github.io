@@ -1,6 +1,7 @@
 ---
 title: load-flow-action-simulator
 layout: default
+parent: Modules configuration
 todo:
     - add a link to http://rte-france.github.io/hades2/index.html
     - the debug property seems unused

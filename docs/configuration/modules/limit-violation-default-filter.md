@@ -1,6 +1,7 @@
 ---
 title: limit-violation-default-filter
 layout: default
+parent: Modules configuration
 ---
 
 The `limit-violation-default-filter` module is used by the [security-analysis](../../tools/security-analysis.md) and the

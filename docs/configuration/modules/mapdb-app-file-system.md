@@ -1,6 +1,7 @@
 ---
 title: mapdb-app-file-system
 layout: default
+parent: Modules configuration
 todo:
     - add link to AFS concept
     - add link to MapDB AFS implementation

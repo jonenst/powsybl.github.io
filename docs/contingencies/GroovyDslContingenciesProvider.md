@@ -1,6 +1,7 @@
 ---
 title: GroovyDslContingenciesProvider
 layout: default
+parent: Contingencies
 ---
 
 The `com.powsybl.action.dsl.GroovyDslContingenciesProvider` is an implementation of the

@@ -1,6 +1,7 @@
 ---
 title: componentDefaultConfig
 layout: default
+parent: Modules configuration
 ---
 
 The `componentDefaultConfig` module is used to configure the implementation of plugins the framework has to use for a

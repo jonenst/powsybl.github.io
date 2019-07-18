@@ -1,6 +1,7 @@
 ---
 title: import
 layout: default
+parent: Modules configuration
 ---
 
 The `import` module is used by the `com.powsybl.iidm.import_.Importers` class, after a case is loaded. A

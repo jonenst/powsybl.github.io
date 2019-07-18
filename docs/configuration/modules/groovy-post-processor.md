@@ -1,6 +1,7 @@
 ---
 title: groovy-post-processor
 layout: default
+parent: Modules configuration
 ---
 
 The `groovy-post-processor` module is used by the [GroovyScriptPostProcessor](../../iidm/importer/post-processor/GroovyScriptPostProcessor.md)

@@ -1,6 +1,7 @@
 ---
 title: loadflow-validation
 layout: default
+parent: Modules configuration
 todo:
     - add link to loadflow-validation results page
 ---

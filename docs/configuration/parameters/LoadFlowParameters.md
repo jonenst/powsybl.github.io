@@ -1,6 +1,7 @@
 ---
 title: LoadFlowParameters
 layout: default
+parent: Modules parameters
 ---
 
 The `com.powsybl.loadflow.LoadFlowParameters` class provides the generic parameters for all `com.powsybl.loadflow.LoadFlow`
