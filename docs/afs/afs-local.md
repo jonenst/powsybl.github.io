@@ -1,6 +1,7 @@
 ---
 title: AFS Local implementation
 layout: default
+parent: AFS
 ---
 
 Powsybl provides an implementation of the AFS storage API that exposes a folder of the local hard-drive, in read-only.
