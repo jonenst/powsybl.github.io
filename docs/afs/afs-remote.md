@@ -1,6 +1,7 @@
 ---
 title: AFS remote implementation
 layout: default
+parent: AFS
 ---
 
 Powsybl provides a way to expose remotely some of the configured drives, in a client/server application. 
