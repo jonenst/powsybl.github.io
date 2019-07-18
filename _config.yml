@@ -3,3 +3,6 @@ title: Power System Blocks
 show_downloads: false
 markdown: kramdown
 search_enabled: true
+aux_links:
+  "Powsybl on GitHub":
+    - "//github.com/powsybl/powsybl"
