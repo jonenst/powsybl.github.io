@@ -2,7 +2,7 @@
 title: IIDM Model
 layout: default
 has_children: true
-parent: IIDM
+nav_order: 2
 ---
 
 [Network](network.md)
