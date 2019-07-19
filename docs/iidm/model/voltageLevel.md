@@ -1,5 +1,7 @@
 ---
 title: Voltage Level
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

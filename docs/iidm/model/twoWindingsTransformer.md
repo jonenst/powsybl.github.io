@@ -1,5 +1,7 @@
 ---
 title: Two windings transformer
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

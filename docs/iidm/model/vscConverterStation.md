@@ -1,5 +1,7 @@
 ---
 title: VSC Converter Station
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 
