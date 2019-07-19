@@ -1,5 +1,7 @@
 ---
 title: Reactive limits
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

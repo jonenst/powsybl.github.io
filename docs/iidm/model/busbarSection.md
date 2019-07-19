@@ -1,5 +1,7 @@
 ---
 title: Busbar section
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

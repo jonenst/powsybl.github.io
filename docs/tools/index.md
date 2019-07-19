@@ -1,6 +1,8 @@
 ---
 title: iTools
 layout: default
+has_children: true
+permalink: /docs/tools/
 ---
 
 The `iTools` script provides a common way to interact with powsybl, using the command line.

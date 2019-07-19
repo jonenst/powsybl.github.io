@@ -1,5 +1,7 @@
 ---
 title: Shunt compensator
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

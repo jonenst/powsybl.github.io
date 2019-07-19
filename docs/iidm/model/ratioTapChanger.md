@@ -1,5 +1,7 @@
 ---
 title: Ratio tap changer
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

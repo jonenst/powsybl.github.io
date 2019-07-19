@@ -1,6 +1,7 @@
 ---
 title: How to use PowSyBl as a custom desktop application
 layout: default
+parent: Tutorials
 ---
 
 It is possible to use PowSyBl as a complete desktop application based on the [GSE](https://github.com/powsybl/powsybl-gse)

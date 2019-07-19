@@ -1,6 +1,7 @@
 ---
 title: Load-flow validation
 layout: default
+parent: LoadFlow
 ---
 
 The load-flow validation aims at ensuring the consistency of load-flow results, and, more generally of any steady state

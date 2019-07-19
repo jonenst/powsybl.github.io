@@ -1,6 +1,7 @@
 ---
 title: action-simulator
 layout: default
+parent: iTools
 todo:
     - add description of --apply-if-solved-violations optional parameter
 ---

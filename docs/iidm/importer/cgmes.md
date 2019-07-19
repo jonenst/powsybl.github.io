@@ -1,6 +1,8 @@
 ---
 title: CGMES Importer
 layout: default
+parent: Importers
+grand_parent: IIDM
 todo:
     - add configuration properties (when the PR is done)
 ---

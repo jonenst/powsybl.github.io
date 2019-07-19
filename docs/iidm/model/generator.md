@@ -1,5 +1,7 @@
 ---
 title: Generator
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

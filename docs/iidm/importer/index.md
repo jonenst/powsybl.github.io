@@ -1,6 +1,9 @@
 ---
 title: Importers
 layout: default
+has_children: true
+parent: IIDM
+permalink: /docs/importer/
 ---
 
 The `com.powsybl.iidm.import_.Importer` class is used to create a IIDM network instance from a case. Powsybl supports

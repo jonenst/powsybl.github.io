@@ -1,6 +1,8 @@
 ---
 title: IIDM Exporter
 layout: default
+parent: Exporters
+grand_parent: IIDM
 todo:
     - add support to JSON files
 ---

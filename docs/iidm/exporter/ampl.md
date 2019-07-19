@@ -1,6 +1,8 @@
 ---
 title: AMPL Exporter
 layout: default
+parent: Exporters
+grand_parent: IIDM
 ---
 
 The [AMPL](https://ampl.com/) (**A** **M**athematical **P**rogramming **L**anguage) format is an algebraic modeling language to describe and solve high-complexity problems for

@@ -1,5 +1,7 @@
 ---
 title: LCC converter station
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

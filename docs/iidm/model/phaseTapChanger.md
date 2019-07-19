@@ -1,5 +1,7 @@
 ---
 title: Phase tap changer
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

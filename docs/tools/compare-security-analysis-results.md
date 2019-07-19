@@ -1,6 +1,7 @@
 ---
 title: compare-security-analysis-results
 layout: default
+parent: iTools
 ---
 
 The `compare-security-analysis-results` command is used to compare [security-analysis](security-analysis.md) results.  

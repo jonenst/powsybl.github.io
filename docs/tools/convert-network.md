@@ -1,6 +1,7 @@
 ---
 title: convert-network
 layout: default
+parent: iTools
 ---
 
 The `convert-network` command is used to import a network from a file and to export it to another file, in the specified

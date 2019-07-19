@@ -1,5 +1,7 @@
 ---
 title: Static VAR compensator
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

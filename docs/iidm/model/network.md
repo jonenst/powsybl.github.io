@@ -1,5 +1,7 @@
 ---
 title: Network
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

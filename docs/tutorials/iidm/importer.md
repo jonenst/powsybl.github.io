@@ -1,6 +1,7 @@
 ---
 title: How to write an IIDM importer
 layout: default
+parent: Tutorials
 ---
 
 From PowSyBl's [Importer](../../iidm/importer/index.md) interface, it is possible to add a new file format from which

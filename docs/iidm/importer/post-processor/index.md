@@ -1,6 +1,8 @@
 ---
 title: Import post processors
 layout: default
+has_children: true
+parent: IIDM
 ---
 
 Powsybl, using import post processors, provides a mechanism that allows to perform operations on networks after they

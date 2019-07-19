@@ -1,6 +1,7 @@
 ---
 title: security-analysis
 layout: default
+parent: iTools
 todo:
     - add link to the SecurityAnalysisParameter page
 ---

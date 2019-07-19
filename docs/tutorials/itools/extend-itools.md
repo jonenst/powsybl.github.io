@@ -1,6 +1,7 @@
 ---
 title: How to extend iTools
 layout: default
+parent: Tutorials
 ---
 
 `iTools` script mechanism is designed to be easily extended with new commands, that would be added to the set of

@@ -1,5 +1,6 @@
 ---
 title: Network reduction
+parent: IIDM
 layout: default
 ---
 

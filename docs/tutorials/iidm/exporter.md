@@ -1,6 +1,7 @@
 ---
 title: How to write an IIDM exporter
 layout: default
+parent: Tutorials
 ---
 
 From PowSyBl's [Exporter](../../iidm/exporter/index.md) interface, it is possible to add a new data serialization format

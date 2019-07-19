@@ -1,6 +1,7 @@
 ---
 title: sensitivity-computation
 layout: default
+parent: iTools
 todo:
     - add links to missing pages
     - add link to H2 implementation

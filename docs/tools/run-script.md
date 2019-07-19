@@ -1,6 +1,7 @@
 ---
 title: run-script
 layout: default
+parent: iTools
 todo:
     - create a tutorial to show a groovy script example
 ---

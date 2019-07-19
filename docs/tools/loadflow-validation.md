@@ -1,6 +1,7 @@
 ---
 title: loadflow-validation
 layout: default
+parent: iTools
 todo:
     - add link to load-flow validation results archi page
     - add link to the loadflow-validation page

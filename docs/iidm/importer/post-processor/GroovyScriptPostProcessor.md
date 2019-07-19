@@ -1,6 +1,8 @@
 ---
 title: GroovyScriptPostProcessor
 layout: default
+parent: Import post processors
+grand_parent: IIDM
 ---
 
 The `com.powsybl.iidm.import_.GroovyScriptPostProcessor` class is an implementation of the `com.powsybl.iidm.import_.ImportPostProcessor`

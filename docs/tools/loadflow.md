@@ -1,6 +1,7 @@
 ---
 title: loadflow
 layout: default
+parent: iTools
 ---
 
 The `loadflow` command is used to run a power flow simulation.

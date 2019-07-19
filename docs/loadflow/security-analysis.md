@@ -1,6 +1,7 @@
 ---
 title: SecurityAnalysisImpl
 layout: default
+parent: LoadFlow
 ---
 
 The `com.powsybl.security.SecurityAnalysisImpl` class is an implementation of the `com.powsybl.security.SecurityAnalysis`

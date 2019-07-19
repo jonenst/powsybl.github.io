@@ -1,5 +1,7 @@
 ---
 title: Dangling line
+parent: IIDM Model
+grand_parent: IIDM
 layout: default
 ---
 

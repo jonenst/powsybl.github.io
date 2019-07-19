@@ -1,6 +1,8 @@
 ---
 title: IIDM Importer
 layout: default
+parent: Importers
+grand_parent: IIDM
 todo:
     - add support to JSON files
 ---

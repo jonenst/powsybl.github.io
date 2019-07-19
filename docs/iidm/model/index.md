@@ -1,6 +1,8 @@
 ---
-title: IIDM
+title: IIDM Model
 layout: default
+has_children: true
+parent: IIDM
 ---
 
 [Network](network.md)

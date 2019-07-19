@@ -1,6 +1,8 @@
 ---
 title: Tutorials
 layout: default
+has_children: true
+permalink: /docs/tutorials/
 ---
 
 # Tutorials

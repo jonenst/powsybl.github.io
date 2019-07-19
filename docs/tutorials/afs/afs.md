@@ -1,6 +1,7 @@
 ---
 title: How to use AFS
 layout: default
+parent: Tutorials
 ---
 
 
